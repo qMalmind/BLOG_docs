@@ -1,6 +1,6 @@
 <ul>
   <li>
-    <h2>Database</h2>
+    <h2> <a href='./database.html'>Database</a> </h2>
   </li>
   <li>
     <h2>SiteMap</h2>
