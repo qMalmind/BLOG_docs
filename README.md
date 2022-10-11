@@ -1,4 +1,3 @@
-<h1> BLOG_docs </h1>
 <ul>
   <li>
     <h2>Database</h2>
