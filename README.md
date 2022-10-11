@@ -1,9 +1,9 @@
 # BLOG documentation
 
-> БД
-> Sitemap
-> UI
-> API
+> БД <br>
+> Sitemap <br>
+> UI <br>
+> API <br>
 
 ## База данных BLOG
 > Данное представление описывает больше структуру миграций, нежели саму бд на SQL
