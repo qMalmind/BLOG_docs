@@ -1,6 +1,6 @@
 # BLOG documentation
 
-> ![БД](./index.html#database)
+> БД
 > Sitemap
 > UI
 > API
